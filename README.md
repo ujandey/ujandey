@@ -38,7 +38,7 @@ Whether it's a fan site for Seedhe Maut or AI-powered roast bots, I love experim
 | [Noted](https://ujandey.github.io/Noted/) | A clean, simple note-taking app built with React CDN | HTML, CSS, React  
 | [Quantumverse](https://ujandey.github.io/Quantumverse) | A fun simulation of quantum mechanics in your browser | GSAP, Particles.js, CSS  
 | [Spammer Bunny](https://github.com/ujandey/spammer-bunny) | A chaotic `.exe` tool that spams messages across apps like WhatsApp | Python (compiled), PyAutoGUI |  
-| [@roasted](https://github.com/ujandey/roasted) | An AI-powered tool that hilariously roasts your Instagram username | Python, OpenAI API, Terminal UI |
+| [@roasted](https://github.com/ujandey/-Roasted) | An AI-powered tool that hilariously roasts your Instagram username | Python, Terminal UI |
 
 ---
 
