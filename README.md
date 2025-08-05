@@ -2,17 +2,16 @@
 
 > *"Developer by day, designer by night, and an aspiring physicist in all timelines."*
 
-I'm currently a student preparing for JEE, but coding and building stuff is how I procrastinate productively.  
-Whether it's a fan site for Seedhe Maut or simulating quantum physics (yup, I really did that), I love creating cool and meaningful things on the web.
+I'm currently an aspiring physicist trying to understand the universe one equation at a time — but I also build cool things on the internet for fun (and sometimes for chaos).  
+Whether it's a fan site for Seedhe Maut or AI-powered roast bots, I love experimenting with code and ideas that actually *feel* alive.
 
 ---
 
 ## 🧠 About Me
-
-- 🔭 I’m currently building: `Carbon Karma` – a gamified eco-challenge tracker  
-- 🌱 Learning: Python, React, Quantum Computing  
-- 👨‍💻 Currently working on: `HooHaa` – a personal AI assistant with ✨personality✨  
-- 🎓 Class 12 CBSE | Emotionally unstable but consistent  
+  
+- 🌱 Learning: Physics,Quantum Computing, AI, Full-Stack Dev  
+- 👨‍💻 Developer as a side hustle, physicist at heart  
+- 🎓 Physics undergrad | Emotionally unstable but consistent  
 - 💭 I dream of blending tech with physics to simulate dreams, literally  
 - 🎧 Bonus: Huge fan of Seedhe Maut. Music = sanity.
 
@@ -38,6 +37,8 @@ Whether it's a fan site for Seedhe Maut or simulating quantum physics (yup, I re
 | [Seedhe Maut Fan Website](https://tbsm4l.vercel.app) | A fan website for Seedhe Maut with cool interactions | HTML, CSS, JS  
 | [Noted](https://ujandey.github.io/Noted/) | A clean, simple note-taking app built with React CDN | HTML, CSS, React  
 | [Quantumverse](https://ujandey.github.io/Quantumverse) | A fun simulation of quantum mechanics in your browser | GSAP, Particles.js, CSS  
+| [Spammer Bunny](https://github.com/ujandey/spammer-bunny) | A chaotic `.exe` tool that spams messages across apps like WhatsApp | Python (compiled), PyAutoGUI |  
+| [@roasted](https://github.com/ujandey/roasted) | An AI-powered tool that hilariously roasts your Instagram username | Python, OpenAI API, Terminal UI |
 
 ---
 
@@ -49,4 +50,3 @@ DMs open. Collab ideas, questions, memes — all welcome. 😎
 ---
 
 > *"Not all those who wander are lost — some are debugging."*
-
