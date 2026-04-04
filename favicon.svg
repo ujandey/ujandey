@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <rect width="100" height="100" rx="20" fill="#131313" />
+  <text y="68" x="50" font-family="monospace" font-size="50" font-weight="bold" fill="#FF5722" text-anchor="middle">UD</text>
+  <rect width="80" height="80" x="10" y="10" rx="10" fill="none" stroke="#474747" stroke-width="4" />
+</svg>
