@@ -1,53 +1,74 @@
-# Hey, I'm Ujan. 👋
+# Hey, I'm Ujan 👋
 
-> *"Could I BE any more of a physics student who also somehow ended up in AI?"*
+**Physics undergraduate @ NIT Agartala, India** · **AI/ML · Mathematics · Physics**
 
-**Physics undergrad @ NIT Agartala** | West Bengal, India 🇮🇳
+I'm a physics student increasingly interested in **machine learning and intelligent systems**. I like understanding things from first principles, building experiments, and figuring out why a system works rather than just making it work.
 
-I spend my time studying physics, going down AI/ML rabbit holes, and working on **Equated** — a SaaS product I'm building because apparently sitting still isn't for me. Somewhere in between, I draw, read fiction, and pretend I'll sleep early.
-
----
-
-## 🔭 What I'm Into
-
-- ⚛️ **Physics** — First principles, problem solving, and the occasional existential spiral about the universe
-- 🤖 **AI & ML** — Exploring the landscape: tools, research, where it's all going, what it means
-- 🚀 **Building Equated** — A SaaS product in the making. More soon.
-- 🎨 **Art** — I draw and post on Instagram. Low-key proud of it.
+Right now, I'm particularly interested in **learning, memory, reasoning, continual learning, and alternative neural architectures**.
 
 ---
 
-## 🛠️ Tech I Work With
+## 🧠 What I'm Exploring
+
+- ⚛️ **Physics & Mathematics** — mechanics, quantum physics, mathematical foundations
+- 🤖 **Machine Learning** — neural networks, optimization, representation learning
+- 🧠 **AI Memory & Learning** — long-term memory, continual learning, retrieval, learning dynamics
+- 🔬 **Neural Architectures** — exploring ideas beyond standard Transformer-based systems
+- ⚡ **Neuromorphic Computing** — brain-inspired computation and efficient hardware
+- 🚀 **Deep Tech** — turning interesting research ideas into things that actually work
+
+---
+
+## 🛠️ Tools & Technologies
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white)
 
 ---
 
-## 🌌 Things I Think About (A Lot)
+## 🔭 Currently Learning
 
-```python
-on_my_mind = [
-    "How AI is changing what research even looks like",
-    "Whether Equated will work (it will)",
-    "Quantum computing & neuromorphic systems — fascinated, still learning",
-    "The intersection of deep tech and building real things",
-    "Why sleep schedules are a myth",
-]
+```text
+Linear Algebra → Probability & Statistics → ML Fundamentals
+                                      ↓
+                         Deep Learning & Research
+                                      ↓
+                    Memory · Learning · Reasoning
 ```
 
+I'm building up the mathematical and technical foundation needed to eventually do **independent ML research**, rather than just use existing models and APIs.
+
 ---
 
-## 🧪 Currently Working On
+## 🧪 Things I Build
 
-- 🟣 **Equated** — A SaaS product. Early days, big vision. Watch this space.
-- 📚 Surviving first-year physics while reading everything about AI on the side
+I enjoy small projects that force me to understand something by actually implementing it. My interests currently sit somewhere between **physics, software, and AI research**.
 
-> *No portfolio of 12 polished projects. Just one real thing being built. That counts more, right? ...Right?*
+Some of the areas I'm working toward:
+
+- Implementing ML algorithms from scratch
+- Experimenting with neural network architectures
+- Building AI systems with persistent memory
+- Exploring efficient and brain-inspired computation
+- Turning research ideas into prototypes
+
+---
+
+## 🌌 Questions I'm Thinking About
+
+> How should an intelligent system learn continuously without constantly forgetting?
+
+> Can memory be a fundamental part of the architecture rather than an external add-on?
+
+> What should replace or complement today's dominant neural architectures?
+
+> What can physics teach us about computation, learning, and intelligence?
 
 ---
 
@@ -65,23 +86,22 @@ on_my_mind = [
 
 ---
 
-## 🧭 The Plan
+## 🎯 Long-Term Direction
 
-Research. Build. Financial independence. In some order, with varying levels of chaos.
+**Physics → Mathematics → Machine Learning → Research**
 
-The goal is to make something genuinely useful — not just another thing that exists. Equated is step one.
+I want to work at the intersection of **physics, mathematics, and artificial intelligence**, with a long-term goal of contributing to how we build machines that can **learn, remember, and reason**.
+
+For now: learn deeply, build constantly, and follow the questions that don't have easy answers.
 
 ---
 
 ## 📬 Find Me
 
-[![Instagram](https://img.shields.io/badge/Art_@_Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/ujan_waitforit_dey)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/ujan_waitforit_dey)
 [![GitHub](https://img.shields.io/badge/GitHub-ujandey-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ujandey)
 
----
-
 <div align="center">
-  <i>"Oh I'm sorry, did you expect a senior dev with 47 pinned repos? Could that BE any more unrealistic for a first year?"</i>
-  <br><br>
+  <br>
   <img src="https://komarev.com/ghpvc/?username=ujandey&color=7aa2f7&style=flat-square&label=Profile+Views" />
 </div>
