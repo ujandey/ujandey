@@ -1,107 +1,116 @@
 # Hey, I'm Ujan 👋
 
-**Physics undergraduate @ NIT Agartala, India** · **AI/ML · Mathematics · Physics**
+**Physics undergraduate @ NIT Agartala** · **AI/ML · Mathematics · Scientific Computing**
 
-I'm a physics student increasingly interested in **machine learning and intelligent systems**. I like understanding things from first principles, building experiments, and figuring out why a system works rather than just making it work.
+I'm a physics student exploring **machine learning and intelligent systems** from the mathematical and physical side. I enjoy learning by building things, implementing ideas from scratch, and digging into the *why* behind a model rather than treating it as a black box.
 
-Right now, I'm particularly interested in **learning, memory, reasoning, continual learning, and alternative neural architectures**.
-
----
-
-## 🧠 What I'm Exploring
-
-- ⚛️ **Physics & Mathematics** — mechanics, quantum physics, mathematical foundations
-- 🤖 **Machine Learning** — neural networks, optimization, representation learning
-- 🧠 **AI Memory & Learning** — long-term memory, continual learning, retrieval, learning dynamics
-- 🔬 **Neural Architectures** — exploring ideas beyond standard Transformer-based systems
-- ⚡ **Neuromorphic Computing** — brain-inspired computation and efficient hardware
-- 🚀 **Deep Tech** — turning interesting research ideas into things that actually work
+Currently, I'm especially interested in **learning, memory, reasoning, continual learning, and neural architectures**.
 
 ---
 
-## 🛠️ Tools & Technologies
+## 🧠 What I'm Working Toward
+
+- **Machine Learning** — neural networks, optimization, representation learning
+- **AI Memory** — persistent memory, retrieval, continual learning, learning dynamics
+- **Neural Architectures** — understanding where Transformers work and where they struggle
+- **Neuromorphic Computing** — brain-inspired computation and efficient AI hardware
+- **Physics × AI** — using mathematical and physical ideas to think about computation and intelligence
+- **ML Research** — building the foundations to eventually develop and test my own ideas
+
+---
+
+## 🔬 Currently Learning
+
+**Mathematics → ML Fundamentals → Deep Learning → Research**
+
+Right now I'm strengthening my foundations in:
+
+- Linear algebra
+- Probability & statistics
+- Calculus and optimization
+- Python, NumPy & scientific computing
+- Neural networks and deep learning
+
+The long-term goal is to move from **using models → understanding models → designing models**.
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+**Tools & Libraries**
+
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white)
-
----
-
-## 🔭 Currently Learning
-
-```text
-Linear Algebra → Probability & Statistics → ML Fundamentals
-                                      ↓
-                         Deep Learning & Research
-                                      ↓
-                    Memory · Learning · Reasoning
-```
-
-I'm building up the mathematical and technical foundation needed to eventually do **independent ML research**, rather than just use existing models and APIs.
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
 ---
 
 ## 🧪 Things I Build
 
-I enjoy small projects that force me to understand something by actually implementing it. My interests currently sit somewhere between **physics, software, and AI research**.
+I prefer projects that make me **learn something while building them**.
 
-Some of the areas I'm working toward:
+Some of the things I'm interested in building:
 
-- Implementing ML algorithms from scratch
-- Experimenting with neural network architectures
-- Building AI systems with persistent memory
-- Exploring efficient and brain-inspired computation
-- Turning research ideas into prototypes
-
----
-
-## 🌌 Questions I'm Thinking About
-
-> How should an intelligent system learn continuously without constantly forgetting?
-
-> Can memory be a fundamental part of the architecture rather than an external add-on?
-
-> What should replace or complement today's dominant neural architectures?
-
-> What can physics teach us about computation, learning, and intelligence?
+- ML algorithms implemented from scratch
+- Small neural networks and experiments
+- AI systems with persistent memory
+- Experiments with alternative neural architectures
+- Scientific computing and physics simulations
+- Small products that turn technical ideas into useful software
 
 ---
 
-## 📊 GitHub Stats
+## 🌌 Questions I'm Exploring
+
+> Can memory be a fundamental part of an intelligent architecture rather than an external component?
+
+> How can a model learn continuously without catastrophic forgetting?
+
+> What kinds of architectures could complement or eventually replace today's dominant approaches?
+
+> Can ideas from physics and mathematics give us better ways to understand learning and intelligence?
+
+---
+
+## 📈 GitHub
 
 <div align="center">
 
-![Ujan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ujandey&show_icons=true&theme=tokyonight&hide_border=true&title_color=9d7cd8&icon_color=7aa2f7&text_color=c0caf5&bg_color=1a1b2e)
+<img src="https://github-readme-stats.vercel.app/api?username=ujandey&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&theme=transparent" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ujandey&layout=compact&hide_border=true&langs_count=8&theme=transparent" height="165" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ujandey&layout=compact&theme=tokyonight&hide_border=true&title_color=9d7cd8&text_color=c0caf5&bg_color=1a1b2e)
+<br>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=ujandey&theme=tokyonight&hide_border=true&background=1a1b2e&ring=9d7cd8&fire=7aa2f7&currStreakLabel=c0caf5)
+<img src="https://streak-stats.demolab.com?user=ujandey&hide_border=true&theme=transparent" />
 
 </div>
 
 ---
 
-## 🎯 Long-Term Direction
+## 🎯 Direction
 
 **Physics → Mathematics → Machine Learning → Research**
 
-I want to work at the intersection of **physics, mathematics, and artificial intelligence**, with a long-term goal of contributing to how we build machines that can **learn, remember, and reason**.
+My long-term goal is to work at the intersection of **physics, mathematics, and AI**, and eventually contribute to systems that can **learn, remember, and reason** in fundamentally better ways.
 
-For now: learn deeply, build constantly, and follow the questions that don't have easy answers.
+For now: **learn deeply, build constantly, and follow the hard questions.**
 
 ---
 
-## 📬 Find Me
+## 📫 Connect
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/ujan_waitforit_dey)
 [![GitHub](https://img.shields.io/badge/GitHub-ujandey-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ujandey)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/ujan_waitforit_dey)
 
 <div align="center">
   <br>
-  <img src="https://komarev.com/ghpvc/?username=ujandey&color=7aa2f7&style=flat-square&label=Profile+Views" />
+  <img src="https://komarev.com/ghpvc/?username=ujandey&style=flat-square&label=Profile+Views" />
 </div>
