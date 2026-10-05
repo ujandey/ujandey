@@ -1,0 +1,3 @@
+﻿export const identity = { name: 'Ujan Dey', education: 'Integrated BS–MS Physics', institution: 'NIT Agartala', period: '2025–present', email: 'ujandey007@gmail.com', github: 'https://github.com/ujandey', linkedin: 'https://www.linkedin.com/in/ujan-dey-a03663281/', resume: '/resume.pdf' as string | null };
+export const opportunities = 'Open to research internships, AI/ML internships, and research collaborations.';
+export const interests = ['Continual learning and catastrophic forgetting', 'Memory-centric learning systems', 'Representation learning and neural architectures', 'Scientific computing and physics-informed AI', 'Reproducible experiments and honest evaluation'];

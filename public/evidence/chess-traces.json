@@ -1,0 +1,180 @@
+{
+  "engine": "ujandey/chess-engine",
+  "sourceRevision": "ab9bdec8b42fcbbfd6b84ef30416a53325918146",
+  "capturedAt": "2026-10-05T13:51:55.037429+00:00",
+  "environment": {
+    "python": "3.11.7",
+    "os": "Windows-10-10.0.22621-SP0",
+    "architecture": "AMD64",
+    "processor": "Intel64 Family 6 Model 126 Stepping 5, GenuineIntel"
+  },
+  "settings": {
+    "requestedDepth": 3,
+    "maxTimeSeconds": 0.75,
+    "hashMiB": 16,
+    "openingBook": false
+  },
+  "scope": "One local capture per position; timing is host-specific, not a strength or performance benchmark.",
+  "traces": [
+    {
+      "id": "start",
+      "name": "Starting position",
+      "fen": "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1",
+      "board": [
+        "rnbqkbnr",
+        "pppppppp",
+        "........",
+        "........",
+        "........",
+        "........",
+        "PPPPPPPP",
+        "RNBQKBNR"
+      ],
+      "selectedMove": "g1f3",
+      "selectedSAN": "Nf3",
+      "completedDepth": 3,
+      "nodes": 1185,
+      "elapsedSeconds": 0.03673190000699833,
+      "principalVariation": [
+        "g1f3",
+        "b8c6",
+        "b1c3"
+      ],
+      "depthRecords": [
+        {
+          "depth": 1,
+          "nodes": 48,
+          "elapsedSeconds": 0.0011515000078361481,
+          "pv": [
+            "g1f3"
+          ]
+        },
+        {
+          "depth": 2,
+          "nodes": 180,
+          "elapsedSeconds": 0.008301599998958409,
+          "pv": [
+            "g1f3",
+            "b8c6"
+          ]
+        },
+        {
+          "depth": 3,
+          "nodes": 1185,
+          "elapsedSeconds": 0.03671429998939857,
+          "pv": [
+            "g1f3",
+            "b8c6",
+            "b1c3"
+          ]
+        }
+      ],
+      "rootBoardRestored": true
+    },
+    {
+      "id": "scotch",
+      "name": "Scotch opening",
+      "fen": "r1bqkbnr/pppp1ppp/2n5/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 2 3",
+      "board": [
+        "r.bqkbnr",
+        "pppp.ppp",
+        "..n.....",
+        "....p...",
+        "....P...",
+        ".....N..",
+        "PPPP.PPP",
+        "RNBQKB.R"
+      ],
+      "selectedMove": "b1c3",
+      "selectedSAN": "Nc3",
+      "completedDepth": 3,
+      "nodes": 2703,
+      "elapsedSeconds": 0.100215999991633,
+      "principalVariation": [
+        "b1c3",
+        "g8f6",
+        "d2d4"
+      ],
+      "depthRecords": [
+        {
+          "depth": 1,
+          "nodes": 62,
+          "elapsedSeconds": 0.001437300001271069,
+          "pv": [
+            "b1c3"
+          ]
+        },
+        {
+          "depth": 2,
+          "nodes": 222,
+          "elapsedSeconds": 0.015786100004334003,
+          "pv": [
+            "b1c3",
+            "g8f6"
+          ]
+        },
+        {
+          "depth": 3,
+          "nodes": 2703,
+          "elapsedSeconds": 0.10020310000982136,
+          "pv": [
+            "b1c3",
+            "g8f6",
+            "d2d4"
+          ]
+        }
+      ],
+      "rootBoardRestored": true
+    },
+    {
+      "id": "mate",
+      "name": "Back-rank tactic",
+      "fen": "6k1/5ppp/8/8/8/8/5PPP/R5K1 w - - 0 1",
+      "board": [
+        "......k.",
+        ".....ppp",
+        "........",
+        "........",
+        "........",
+        "........",
+        ".....PPP",
+        "R.....K."
+      ],
+      "selectedMove": "a1a8",
+      "selectedSAN": "Ra8#",
+      "completedDepth": 3,
+      "nodes": 908,
+      "elapsedSeconds": 0.022537399985594675,
+      "principalVariation": [
+        "a1a8"
+      ],
+      "depthRecords": [
+        {
+          "depth": 1,
+          "nodes": 46,
+          "elapsedSeconds": 0.0009395999950356781,
+          "pv": [
+            "a1a8"
+          ]
+        },
+        {
+          "depth": 2,
+          "nodes": 104,
+          "elapsedSeconds": 0.0041074999899137765,
+          "pv": [
+            "a1a8"
+          ]
+        },
+        {
+          "depth": 3,
+          "nodes": 908,
+          "elapsedSeconds": 0.022525699983816594,
+          "pv": [
+            "a1a8"
+          ]
+        }
+      ],
+      "rootBoardRestored": true
+    }
+  ]
+}

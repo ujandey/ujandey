@@ -1,0 +1,1 @@
+{"rewrites":[{"source":"/((?!assets/|archive/|evidence/|wallpapers/|favicon\\.svg$|social\\.(?:svg|png)$|resume\\.pdf$).*)","destination":"/index.html"}]}

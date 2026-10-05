@@ -1,0 +1,46 @@
+.memory-overview-results{display:grid;grid-template-columns:1fr 1fr;gap:12px;margin:15px 0 0}
+.memory-overview-results>div{display:flex;flex-direction:column;gap:5px;border-top:1px solid var(--border);padding-top:10px}
+.memory-overview-results strong{font-size:17px;font-weight:550;color:var(--ink)}
+.memory-overview-results span{font-size:13px;color:var(--muted)}
+.memory-table-scroll{max-width:100%;overflow-x:auto;margin-top:20px;border:1px solid var(--border);border-radius:8px}
+.memory-table-scroll:focus-visible{outline:2px solid var(--cobalt);outline-offset:3px}
+.memory-benchmark-table{border-collapse:collapse;width:100%;font-size:13px;text-align:left}
+.memory-benchmark-table caption{padding:13px;text-align:left;color:var(--muted);font-size:12px;line-height:1.6}
+.memory-benchmark-table th,.memory-benchmark-table td{padding:12px;border-top:1px solid var(--separator);white-space:nowrap}
+.memory-benchmark-table thead{background:var(--toolbar);color:var(--muted)}
+.memory-benchmark-table th{font-weight:500}
+.memory-benchmark-table td{font-variant-numeric:tabular-nums}
+.memory-result-highlight{background:var(--selection);color:var(--cobalt)}
+.memory-explorer-heading{display:flex;flex-wrap:wrap;align-items:center;justify-content:space-between;gap:14px;margin-bottom:15px}
+.memory-explorer-heading h3{font-size:15px;font-weight:550;margin:0}
+.memory-explorer-heading label{display:flex;align-items:center;gap:9px;font-size:13px;color:var(--muted)}
+.memory-explorer-heading select{background:var(--surface);color:var(--ink);border:1px solid var(--border-strong);border-radius:6px;padding:8px;font:inherit;min-height:36px}
+.memory-retention-chart>p{font-size:13px;color:var(--muted);line-height:1.7}
+.memory-retention-chart ul{list-style:none;padding:0;margin:20px 0}
+.memory-retention-chart li{display:grid;grid-template-columns:30px minmax(30px,1fr) 64px 48px;align-items:center;gap:10px;font-size:13px;margin:14px 0}
+.memory-retention-chart li>strong{font-weight:500;text-align:right;font-variant-numeric:tabular-nums}
+.memory-retention-chart li>small{font-size:11px;color:var(--muted)}
+.memory-retention-track{height:9px;border-radius:6px;background:var(--separator);overflow:hidden}
+.memory-retention-track i{display:block;height:100%;background:var(--cobalt);border-radius:6px}
+.memory-future-task{color:var(--muted)}
+.memory-source-hash{display:block;overflow-wrap:anywhere;font-size:12px;margin-top:8px}
+.memory-explorer .memory-stage-controls{gap:4px}
+.memory-explorer .memory-stage-controls button>span{font-size:10px}
+.memory-explorer>.caption{font-size:12px;line-height:1.7}
+@container(max-width:400px){
+  .memory-benchmark-table th,.memory-benchmark-table td{padding:10px 8px;font-size:12px}
+  .memory-retention-chart li{gap:6px;grid-template-columns:27px minmax(20px,1fr) 58px 43px}
+  .memory-overview-results strong{font-size:15px}
+  .memory-explorer .memory-stage-controls button>span{font-size:9px}
+}
+
+/* Task identity is reinforced by digit labels and percentages, never color alone. */
+.memory-retention-chart li:nth-child(1){--series:var(--chart-blue)}
+.memory-retention-chart li:nth-child(2){--series:var(--chart-teal)}
+.memory-retention-chart li:nth-child(3){--series:var(--chart-purple)}
+.memory-retention-chart li:nth-child(4){--series:var(--chart-ochre)}
+.memory-retention-chart li:nth-child(5){--series:var(--chart-rose)}
+.memory-retention-track i{background:var(--series)}
+.memory-future-task .memory-retention-track i{background:repeating-linear-gradient(135deg,var(--series),var(--series) 3px,var(--content) 3px,var(--content) 5px)}
+.memory-table-scroll:focus-visible{outline:3px solid var(--focus)}
+@media(max-width:760px){.memory-explorer-heading select{min-height:44px;max-width:100%}}
