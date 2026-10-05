@@ -48,5 +48,5 @@ National Institute of Technology Agartala · 2025–present
 ## Contact
 
 - Email: [ujandey007@gmail.com](mailto:ujandey007@gmail.com)
-- Portfolio: [ujandey.vercel.app](https://ujandey.vercel.app)
+- Portfolio: [ujandey.vercel.app](https://ujandey.me)
 - GitHub: [@ujandey](https://github.com/ujandey)
