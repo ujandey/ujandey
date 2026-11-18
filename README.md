@@ -1,9 +1,9 @@
 <p align="center">
   <a href="https://in.pinterest.com/pin/908179081129024280/">
-    <img src="https://i.pinimg.com/736x/cb/f1/6e/cbf16ec4528fab0eaefbbef2ed6083a7.jpg" width="736" alt="Opening still from the selected Pinterest animation. Open the pin to play it." />
+    <img src="./assets/opening.gif" width="720" alt="Animated opening panel" />
   </a>
   <br />
-  <sub><a href="https://in.pinterest.com/pin/908179081129024280/">Play the opening clip ↗</a></sub>
+  <sub><a href="https://in.pinterest.com/pin/908179081129024280/">Original clip ↗</a></sub>
 </p>
 
 # Ujan Dey
