@@ -1,52 +1,53 @@
-﻿# Ujan Dey
+<p align="center">
+  <a href="https://in.pinterest.com/pin/908179081129024280/">
+    <img src="https://i.pinimg.com/736x/cb/f1/6e/cbf16ec4528fab0eaefbbef2ed6083a7.jpg" width="736" alt="Opening still from the selected Pinterest animation. Open the pin to play it." />
+  </a>
+  <br />
+  <sub><a href="https://in.pinterest.com/pin/908179081129024280/">Play the opening clip ↗</a></sub>
+</p>
 
-Physics undergraduate at **NIT Agartala**, working toward research in machine learning, continual learning, and neuromorphic-inspired computation.
+# Ujan Dey
 
-I like building systems from first principles and testing them honestly: what works, what fails, and which claims the evidence actually supports. I am currently looking for research opportunities where I can strengthen my ML foundations while contributing through Python, experimentation, documentation, and software engineering.
+*I keep building things to see what happens.*
 
-## Featured work
+I’m a physics undergraduate at **NIT Agartala**, interested in how machines learn, remember, and forget. I’m looking for research opportunities in continual learning and neuromorphic computation.
 
-### [MNEMA](https://github.com/ujandey/mnema) — continual-learning research prototype
+---
 
-A NumPy implementation combining sparse representations, fast associative memory, a shallow spiking-style learner, and consolidation.
+## What we forget
 
-- Evaluated on Split-MNIST Class-IL against five continual-learning baselines
-- Completed 60 runs: six methods across ten random seeds
-- MNEMA: **77.12 ± 0.87% final accuracy** and **6.53 ± 1.41 pp forgetting**
-- Includes reproducible artifacts, explicit memory/energy boundaries, and a technical report
-- [Technical report](https://github.com/ujandey/mnema/blob/main/docs/mnema.pdf) · [Benchmark results](https://github.com/ujandey/mnema/tree/main/results/research_benchmark/full)
+### [MNEMA](https://github.com/ujandey/mnema)
+
+*What does a model forget when it learns something new?*
+
+A continual learning prototype in NumPy that combines sparse representations, associative memory, a spiking-style learner, and consolidation. I evaluated it on Split-MNIST Class-IL alongside five baselines, with ten seeds per method.
+
+| Final accuracy | Forgetting |
+| :-- | :-- |
+| **77.12 ± 0.87%** | **6.53 ± 1.41 percentage points** |
+
+[Code](https://github.com/ujandey/mnema) · [Technical report](https://github.com/ujandey/mnema/blob/main/docs/mnema.pdf) · [Benchmark results](https://github.com/ujandey/mnema/tree/main/results/research_benchmark/full)
+
+---
+
+## Elsewhere in the notebook
 
 ### [Python Chess Engine](https://github.com/ujandey/chess-engine)
 
-A chess engine with complete legal move generation, iterative-deepening alpha-beta search, transposition tables, UCI support, SAN/PGN notation, benchmarks, a Tkinter GUI, CI, and 83 tests.
+*What goes into choosing one move?*
+
+A Python engine with legal move generation, iterative deepening, alpha-beta search, transposition tables, UCI support, a Tkinter GUI, and 83 tests.
 
 ### [World Cup 2026 Predictor](https://github.com/ujandey/wc2026predictor)
 
-An end-to-end ML application using sequential ELO ratings, leak-free rolling features, calibrated XGBoost probabilities, and Monte Carlo tournament simulation. The model reaches approximately 57% accuracy on a chronological three-class holdout.
+*One tournament, many possible endings.*
 
-## Interests
+Sequential Elo ratings and calibrated XGBoost probabilities feed a Monte Carlo tournament simulation. The match model reached about 57% accuracy on a chronological three-class holdout.
 
-- Continual learning and catastrophic forgetting
-- Neuromorphic and memory-centric learning systems
-- Representation learning and neural architectures
-- Scientific computing and physics-informed approaches to AI
-- Reproducible experimentation and model evaluation
+---
 
-## Tools
+## In the margins
 
-- **Languages:** Python, C, JavaScript, TypeScript, SQL
-- **ML and data:** NumPy, pandas, scikit-learn, PyTorch, Matplotlib
-- **Software:** Git, GitHub Actions, Linux, Docker, REST APIs
-- **Web:** React, Next.js, Node.js, Express, Tailwind CSS
-- **Data systems:** PostgreSQL, MongoDB, Redis, Prisma
+Currently reading about spiking neural networks and thinking about how to tell whether a model has retained what it learned.
 
-## Education
-
-**Integrated BS-MS in Physics**  
-National Institute of Technology Agartala · 2025–present
-
-## Contact
-
-- Email: [ujandey007@gmail.com](mailto:ujandey007@gmail.com)
-- Portfolio: [ujandey.me](https://ujandey.me)
-- GitHub: [@ujandey](https://github.com/ujandey)
+[Portfolio](https://ujandey.me) · [Email](mailto:ujandey007@gmail.com)
