@@ -14,6 +14,8 @@ I’m a physics undergraduate at **NIT Agartala**, interested in how machines le
 
 ---
 
+![Three illustrated panels: memory, search, and chance](./assets/chapter-strip.svg)
+
 ## Chapter 01 · What we forget
 
 ### [MNEMA](https://github.com/ujandey/mnema)
@@ -46,21 +48,18 @@ Sequential Elo ratings and calibrated XGBoost probabilities feed a Monte Carlo t
 
 ---
 
-## By the numbers
+## The GitHub ledger
 
-| From the notebook | Result |
-| :-- | --: |
-| MNEMA benchmark runs | **60** |
-| Random seeds per method | **10** |
-| Continual learning baselines | **5** |
-| Chess engine tests | **83** |
-| World Cup predictor holdout accuracy | **≈57%** |
+**7 public repositories** · [Browse repositories](https://github.com/ujandey?tab=repositories) · [Native contribution history](https://github.com/ujandey#contribution-activity)
 
-[GitHub contribution activity](https://github.com/ujandey#contribution-activity) · [All repositories](https://github.com/ujandey?tab=repositories)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ujandey&amp;show_icons=true&amp;hide_rank=true&amp;bg_color=ede9de&amp;title_color=232323&amp;text_color=232323&amp;icon_color=555555&amp;border_color=232323&amp;ring_color=232323&amp;border_radius=0&amp;custom_title=THE%20GITHUB%20LEDGER" width="460" alt="GitHub activity stats for Ujan Dey: stars, commits, pull requests, issues, and contributions" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ujandey&amp;layout=compact&amp;hide_progress=true&amp;langs_count=5&amp;bg_color=ede9de&amp;title_color=232323&amp;text_color=232323&amp;border_color=232323&amp;border_radius=0&amp;custom_title=LANGUAGES%20ON%20THE%20PAGE" width="320" alt="Most used languages across Ujan Dey's public GitHub repositories" />
+</p>
 
 ---
 
-## In the margins
+## ## In the margins
 
 Currently reading about spiking neural networks and thinking about how to tell whether a model has retained what it learned.
 
