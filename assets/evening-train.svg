@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 180" role="img" aria-labelledby="title">
+<title id="title">A small train passes beneath power lines at dusk</title>
+<style>
+.train{animation:crossing 14s linear infinite}
+@keyframes crossing{0%{transform:translateX(-150px)}100%{transform:translateX(930px)}}
+@media(prefers-reduced-motion:reduce){.train{animation:none;transform:translateX(405px)}}
+</style>
+<defs><pattern id="tone" width="5" height="5" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r=".65" fill="#232323"/></pattern></defs>
+<rect width="900" height="180" fill="#eeede8"/>
+<circle cx="704" cy="56" r="32" fill="url(#tone)" opacity=".46"/>
+<path d="M0 130L92 119l75 6 72-19 80 17 71-9 115 11 84-15 79 12 86-21 69 19 77-6v66H0z" fill="#d6d4cb"/>
+<path d="M0 130L92 119l75 6 72-19 80 17 71-9 115 11 84-15 79 12 86-21 69 19 77-6v66H0z" fill="url(#tone)" opacity=".43"/>
+<g stroke="#282828" fill="none">
+<path stroke-width="2" d="M93 21v130m-16-116h32M332 38v110m-12-101h24m493-23v124m-15-112h30"/>
+<path d="M0 22Q112 62 332 47Q634 87 837 36L900 17M0 33Q146 77 332 55Q635 97 837 43L900 25"/>
+<path stroke-width="2" d="M0 148h900m-900 6h900"/>
+</g>
+<g class="train">
+<path fill="#222" d="M0 132h97q20 0 28 14H0z"/>
+<path stroke="#eeede8" stroke-width="4" stroke-dasharray="9 4" d="M6 137h105"/>
+</g>
+<path d="M0 161h900" stroke="#222" stroke-dasharray="2 5"/>
+<rect x="1" y="1" width="898" height="178" fill="none" stroke="#222" stroke-width="2"/>
+</svg>

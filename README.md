@@ -8,13 +8,13 @@
 
 # Ujan Dey
 
-*I keep building things to see what happens.*
+*Notes on the things I build and the things we forget.*
 
 I’m a physics undergraduate at **NIT Agartala**, interested in how machines learn, remember, and forget. I’m looking for research opportunities in continual learning and neuromorphic computation.
 
 ---
 
-## What we forget
+## Chapter 01 · What we forget
 
 ### [MNEMA](https://github.com/ujandey/mnema)
 
@@ -30,7 +30,7 @@ A continual learning prototype in NumPy that combines sparse representations, as
 
 ---
 
-## Elsewhere in the notebook
+## Chapter 02 · Elsewhere in the notebook
 
 ### [Python Chess Engine](https://github.com/ujandey/chess-engine)
 
@@ -46,8 +46,24 @@ Sequential Elo ratings and calibrated XGBoost probabilities feed a Monte Carlo t
 
 ---
 
+## By the numbers
+
+| From the notebook | Result |
+| :-- | --: |
+| MNEMA benchmark runs | **60** |
+| Random seeds per method | **10** |
+| Continual learning baselines | **5** |
+| Chess engine tests | **83** |
+| World Cup predictor holdout accuracy | **≈57%** |
+
+[GitHub contribution activity](https://github.com/ujandey#contribution-activity) · [All repositories](https://github.com/ujandey?tab=repositories)
+
+---
+
 ## In the margins
 
 Currently reading about spiking neural networks and thinking about how to tell whether a model has retained what it learned.
+
+![A small train passes beneath power lines at dusk](./assets/evening-train.svg)
 
 [Portfolio](https://ujandey.me) · [Email](mailto:ujandey007@gmail.com)
